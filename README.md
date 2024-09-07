@@ -3,7 +3,7 @@
  </head>
  <body>
  <h3>BOTEL CHATTY WEBSITE</h3>
- <img src="//Facebook.logo.com">
+ <img>
   <h1>BOTEL CHATTY</h1>
   <img src="#">
   <h3><em><strong>community standards challenge</strong></em></h3>
@@ -26,7 +26,6 @@ This whitepaper sets out the current and future developments of the BOTEL utilit
 <p>The functionality of the blockchain protocols on which BOTEL is issued falls under the control of third parties, and the parties operating these respective protocols are responsible for any malfunction or adverse changes to these protocols which may negatively affect BOTEL. Other risks, such as majority mining power attacks, double-spend attacks, or changes in protocol functions or computing may compromise the security and usability of these protocols and, by extension, the security and usability of </p>
 
 <p>This whitepaper and the BOTEL utility token is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any state, country or jurisdiction where such distribution, publication, availability or use would be contrary to corresponding laws or regulations. This whitepaper is intended for general informational purposes only and is not a prospectus or offer document of any kind, and is not intended to constitute an offer of securities or a solicitation for investment in securities in any jurisdiction. The content contained in this whitepaper should not be interpreted as professional financial, tax, legal, or business advice, nor as a provision for any type of advice. You agree to consult your own legal, financial, tax or other professional advisor/s before engaging in any activity in connection herewith.</p></div>
-   <input >
    <input>
     <p> click<button><strong><a href="https://www.facebook.fom/id/login">here</a></strong></button> to login click <button><strong><a href="https://www.facebook.com/register">register</a></strong></button> to get started</p>
  </body>
