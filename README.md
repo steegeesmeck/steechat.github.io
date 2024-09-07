@@ -1,10 +1,5 @@
 <html>
  <head>
-  <title></title>
-  <link rel="stylesheet" href="style.css">
-  <script>
-   
-  </script>
  </head>
  <body>
  <h3>BOTEL CHATTY WEBSITE</h3>
